@@ -1,0 +1,2 @@
+# nanos-vbot
+Bot Class
