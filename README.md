@@ -1,2 +1,3 @@
 # nanos-vbot
-Bot Class
+
+# [Wiki](https://github.com/vugi99/nanos-vbot/wiki)
